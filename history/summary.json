@@ -39,7 +39,7 @@
     "timeMonth": 0,
     "timeYear": 252,
     "dailyMinutesDown": {
-      "2025-04-26": 236,
+      "2025-04-26": 263,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -537,7 +537,7 @@
     "timeMonth": 0,
     "timeYear": 237,
     "dailyMinutesDown": {
-      "2025-04-26": 238,
+      "2025-04-26": 265,
       "2025-04-25": 1440,
       "2025-04-24": 1440,
       "2025-04-23": 1440,
@@ -864,8 +864,8 @@
     "uptimeMonth": "87.52%",
     "uptimeYear": "95.98%",
     "time": 1824,
-    "timeDay": 1655,
-    "timeWeek": 1803,
+    "timeDay": 1650,
+    "timeWeek": 1802,
     "timeMonth": 1846,
     "timeYear": 1824,
     "dailyMinutesDown": {
