@@ -1,7 +1,7 @@
 url: https://maimai.wahlap.com
-status: up
-code: 200
-responseTime: 1846
-lastUpdated: 2025-05-08T19:49:38.557Z
+status: down
+code: 503
+responseTime: 1030
+lastUpdated: 2025-05-08T20:02:00.985Z
 startTime: 2024-06-11T13:43:54.539Z
 generator: Upptime <https://github.com/upptime/upptime>
